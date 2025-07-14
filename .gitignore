@@ -1,0 +1,37 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+.pnpm-store/
+
+# Build artifacts
+build/
+dist/
+.parcel-cache/
+.next/
+out/
+
+# IDE specific (WebStorm)
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing and coverage
+coverage/
+.nyc_output/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+
